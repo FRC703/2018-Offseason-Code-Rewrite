@@ -6,7 +6,7 @@ class Arm:
     arm_up = tunable(False)
 
     def execute(self):
-        self.solenoid.set(True)
+        self.solenoid.set(self.arm_up)
 
     def toggle(self):
         '''
