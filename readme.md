@@ -1,6 +1,6 @@
-# 703 - 2018 Offseason Bot
+# ![703](docs/703.png) 2018 Offseason Bot
 
-![703 Phoenix Logo](docs/703.png)
+
 
 This is a rewrite of the codebase for the 2018 robot. It's using python with robotpy, running the magicbot framework. Most of this is just for testing purposes, but should be a fully working program that can be used in an official event.
 
